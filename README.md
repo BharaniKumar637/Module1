@@ -20,6 +20,7 @@ else:
     print("Odd")
 ```    
 ## Output
+
 ![image](https://github.com/user-attachments/assets/2d1612a7-8a61-4033-88cb-5fcbab407c5c)
 
 ## Result
